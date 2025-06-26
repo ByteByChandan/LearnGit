@@ -1,3 +1,4 @@
 # LearnGit
-this is first git
-author chandan mondal
+This is the first git
+<br> 
+Author Chandan mondal
